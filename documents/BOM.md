@@ -44,7 +44,7 @@
                     <td>S4B-XH-A(LF)(SN)</td>
                     <td><a href="https://akizukidenshi.com/catalog/g/gC-12842/">Akizuki / C-12842</a></td>
                     <td><a href="https://www.jst-mfg.com/product/pdf/eng/eXH.pdf">JST</a></td>
-                    <td>Connector Header Through Hole, Side entry 4 position 2.5mm</td>
+                    <td>XH Connector Header 2.5mm-pitch 4-position Side Entry</td>
                 </tr>
                 <tr>
                     <td>D1</td>
