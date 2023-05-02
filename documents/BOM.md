@@ -110,6 +110,13 @@
                     <td>Thick Film Resistor SMD 8.2kΩ 1/10W ±1% 0603</td>
                 </tr>
                 <tr>
+                    <td>R3, R6, R9, R12, R16, R17, R18</td>
+                    <td>RC0603FR-101KL</td>
+                    <td><a href="https://www.mouser.jp/ProductDetail/603-RC0603FR-101KL">Mouser / 603-RC0603FR-101KL</a></td>
+                    <td>YAGEO</td>
+                    <td>Thick Film Resistor SMD 1kΩ 1/10W ±1% 0603</td>
+                </tr>
+                <tr>
                     <td>R13, R15</td>
                     <td>RC0603FR-10680RL</td>
                     <td><a href="https://www.mouser.jp/ProductDetail/603-RC0603FR-10680RL">Mouser / 603-RC0603FR-10680RL</a></td>
